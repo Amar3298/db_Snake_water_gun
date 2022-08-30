@@ -19,7 +19,7 @@ function computer_choice() {
 let Tie = 0;
 let Computer = 0;
 let User = 0;
-let life = 3;
+let life = 5;
 let user_name = prompt("Enter your name: ");
 while (life != 0) {
   life -= 1;
